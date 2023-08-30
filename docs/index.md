@@ -3,12 +3,10 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*Be Present*
 </center></font>
 
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
 
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
 
 **Conteúdo**
 
@@ -35,7 +33,8 @@
 
 # Descrição do projeto
 
-*&lt;Introdução do projeto&gt;*
+*A Escola Infinito necessita de um sistema para controlar as presenças de seus
+alunos, pois a operação ainda é realizada totalmente em papel.*
 
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
