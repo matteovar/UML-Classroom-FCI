@@ -9,17 +9,17 @@
 
 **Conteúdo**
 
-- [Autores](#nome-alunos)
-- [Descrição do projeto](#introdução-do-projeto)
-- [Análise de requisitos funcionais e não-fucionais](#descrição-dos-requisitos)
-- [Diagrama de casos de uso](#diagrama-de-comportamento-atores)
-- [Descrição dos casos de uso](#descrição-das-funcões)
-- [Diagrama de senquencia](#diagrama-de-ordem-interações)
-- [Diagrama de classes](#diagrama-orientado-objetos)
-- [Diagrama de componentes](#diagrama-estrutura-componente)
-- [Decisões de arquitetura](#decisões-de-arquitetura)
-- [Diagrama de implantação](#diagrama-de-hardware-software)
-- [Referências](#referências)
+- [Autores](#autores)
+- [Descrição do projeto](#Descrição-do-projeto)
+- [Análise de requisitos funcionais e não-fucionais](#Análise-de-requisitos-funcionais-e-não-funcionais)
+- [Diagrama de casos de uso](#Diagrama-de-casos-de-uso)
+- [Descrição dos casos de uso](#Descrição-dos-casos-de-uso)
+- [Diagrama de senquencia](#Diagrama-de-sequencia)
+- [Diagrama de classes](#Diagrama-de-classes)
+- [Diagrama de componentes](#Diagrama-de-Componentes)
+- [Decisões de arquitetura](#Decisões-de-arquitetura)
+- [Diagrama de implantação](#Diagrama-de-implantação)
+- [Referências](#Referências)
 
 
 # Autores
