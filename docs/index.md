@@ -96,7 +96,7 @@ alunos, pois a operação ainda é realizada totalmente em papel.*
 - O administrador altera as configurações de fonte, contraste, notificações, entre outras.
 - O sistema salva as configurações aplicadas.
 
-## Qualquer Site/WEB:
+### Qualquer Site/WEB:
 
 **Ator: Professor, Adm Sistema, Pais/Responsaveis**
 
