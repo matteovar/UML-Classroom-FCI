@@ -56,7 +56,7 @@ alunos, pois a operação ainda é realizada totalmente em papel.*
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+![alt](/assets/Caso_e_uso.png)
 
 # Descrição dos casos de uso
 
