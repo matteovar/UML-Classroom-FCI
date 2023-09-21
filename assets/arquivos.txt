@@ -1,48 +1,3 @@
-<h2><a href= "https://www.mackenzie.br">Universidade Presbiteriana Mackenzie</a></h2>
-<h3><a href= "https://www.mackenzie.br/graduacao/sao-paulo-higienopolis/sistemas-de-informacao">Sistemas de Informação</a></h3>
-
-
-<font size="+12"><center>
-## Be Present
-</center></font>
-
-
-**Conteúdo**
-
-- [Autores](#nome-alunos)
-- [Descrição do projeto](#introdução-do-projeto)
-- [Análise de requisitos funcionais e não-fucionais](#descrição-dos-requisitos)
-- [Diagrama de casos de uso](#diagrama-de-comportamento-atores)
-- [Descrição dos casos de uso](#descrição-das-funcões)
-- [Diagrama de senquencia](#diagrama-de-ordem-interações)
-- [Diagrama de classes](#diagrama-orientado-objetos)
-- [Diagrama de componentes](#diagrama-estrutura-componente)
-- [Decisões de arquitetura](#decisões-de-arquitetura)
-- [Diagrama de implantação](#diagrama-de-hardware-software)
-- [Referências](#referências)
-
-
-# Autores
-
-* Matteo Domiciano Varnier
-* Felipe Mazzeo Barbosa 
-* Daniel Reis Raske
-
-
-
-# Descrição do projeto
-
-*A Escola Infinito necessita de um sistema para controlar as presenças de seus
-alunos, pois a operação ainda é realizada totalmente em papel.*
-
-# Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
-
-# Diagrama de casos de uso
-
-![alt](/assets/Caso_e_uso.png)
-
-# Descrição dos casos de uso
 ### Registrar Falta:
 
 **Ator: Professor, ADM Sistema**
@@ -95,7 +50,7 @@ alunos, pois a operação ainda é realizada totalmente em papel.*
 - O administrador altera as configurações de fonte, contraste, notificações, entre outras.
 - O sistema salva as configurações aplicadas.
 
-### Qualquer Site/WEB:
+## Qualquer Site/WEB:
 
 **Ator: Professor, Adm Sistema, Pais/Responsaveis**
 
@@ -110,26 +65,3 @@ alunos, pois a operação ainda é realizada totalmente em papel.*
 - Pais podem justificar a falta dos filhos com atestado
 
 
-# Diagrama de sequencia
-
-
-
-# Diagrama de classes
-
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
-
-# Diagrama de Componentes
-
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
-
-# Decisões de arquitetura
-
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
-
-# Diagrama de implantação
-
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
-
-# Referências
-
-*&lt;Lista de referências&gt;*
