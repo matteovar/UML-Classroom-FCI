@@ -129,13 +129,17 @@ alunos, pois a operação ainda é realizada totalmente em papel.*
 
 
 # Diagrama de sequencia
+
 - Diagrama de sequencia da (sistema de chamada)
+
 ![alt](/assets/chamada.png)
 
 -Diagrama de Sequencia (gera Relatorio)
+
 ![alt](/assets/Gera_Relatorio.png)
 
 -Diagrama de Sequencia (email automatico relatorio)
+
 ![alt](/assets/Email_auto.png)
 
 *&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
