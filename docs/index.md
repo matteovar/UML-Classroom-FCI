@@ -142,7 +142,6 @@ alunos, pois a operação ainda é realizada totalmente em papel.*
 
 ![alt](/assets/Email_auto.png)
 
-*&lt;Descrição do comportamento entre os atores/resquisitos&gt;*
 
 # Diagrama de classes
 
