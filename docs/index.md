@@ -153,11 +153,7 @@ alunos, pois a operação ainda é realizada totalmente em papel.*
 
 # Decisões de arquitetura
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
-
-# Diagrama de implantação
-
-- Aplicação web desenvolvida.
+- Aplicação web desenvolvida
 
 - Banco de dados para armazenar os dados do sistema
 
@@ -173,6 +169,10 @@ via navegador web
 - Fila para processamentos (envio de e-mails em segundo plano)
 
 **Os professores acessariam o sistema via navegador para registrar presença e faltas. A aplicação web disponibilizaria dados e relatórios em tempo real sobre a situação de cada aluno. Notificações automáticas seriam disparadas conforme as regras de faltas configuradas.**
+
+# Diagrama de implantação
+
+
 # Referências
 
 - https://uderson.medium.com/o-que-%C3%A9-um-registro-de-decis%C3%A3o-de-arquitetura-8e9055b740c7
