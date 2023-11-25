@@ -12,9 +12,9 @@
 - [Autores](#autores)
 - [Descrição do projeto](#Descrição-do-projeto)
 - [Análise de requisitos funcionais e não-fucionais](#Análise-de-requisitos-funcionais-e-não-funcionais)
-- [Diagrama de casos de uso](#Diagrama-de-casos-de-uso)
-- [Descrição dos casos de uso](#Descrição-dos-casos-de-uso)
-- [Diagrama de senquencia](#Diagrama-de-sequencia)
+- [Diagrama de casos e uso](#Diagrama-de-casos-de-uso)
+- [Descrição dos casos e uso](#Descrição-dos-casos-de-uso)
+- [Diagrama de sequencia](#Diagrama-de-sequencia)
 - [Diagrama de classes](#Diagrama-de-classes)
 - [Diagrama de componentes](#Diagrama-de-Componentes)
 - [Decisões de arquitetura](#Decisões-de-arquitetura)
@@ -54,11 +54,11 @@ alunos, pois a operação ainda é realizada totalmente em papel.*
 4. O usuario devera ser capaz de suportar varios acessos simultaneos
 5. O usuario devera escolher uma senha forte com no minimo 6 digitos, 1 caractere especial e 1 letra maiuscula. 
 
-# Diagrama de casos de uso
+# Diagrama de casos e uso
 
 ![alt](/src/Caso_e_uso.png)
 
-# Descrição dos casos de uso
+# Descrição dos casos e uso
 
 ### Registrar Falta:
 
