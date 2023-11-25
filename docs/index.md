@@ -56,7 +56,7 @@ alunos, pois a operação ainda é realizada totalmente em papel.*
 
 # Diagrama de casos de uso
 
-![alt](/assets/Caso_e_uso.png)
+![alt](/src/Caso_e_uso.png)
 
 # Descrição dos casos de uso
 
@@ -132,24 +132,24 @@ alunos, pois a operação ainda é realizada totalmente em papel.*
 
 - Diagrama de sequencia da (sistema de chamada)
 
-![alt](/assets/chamada.png)
+![alt](/src/chamada.png)
 
 -Diagrama de Sequencia (gera Relatorio)
 
-![alt](/assets/Gera_Relatorio.png)
+![alt](/src/Gera_Relatorio.png)
 
 -Diagrama de Sequencia (email automatico relatorio)
 
-![alt](/assets/Email_auto.png)
+![alt](/src/Email_auto.png)
 
 
 # Diagrama de classes
 
-![alt](/assets/Diagrama_classe.png)
+![alt](/src/Diagrama_classe.png)
 
 # Diagrama de Componentes
 
-![alt](/assets/Componentes.png)
+![alt](/src/Componentes.png)
 
 # Decisões de arquitetura
 
@@ -171,7 +171,7 @@ via navegador web
 **Os professores acessariam o sistema via navegador para registrar presença e faltas. A aplicação web disponibilizaria dados e relatórios em tempo real sobre a situação de cada aluno. Notificações automáticas seriam disparadas conforme as regras de faltas configuradas.**
 
 # Diagrama de implantação
-![alt](/assets/Implantacao.png)
+![alt](/src/Implantacao.png)
 
 # Referências
 
