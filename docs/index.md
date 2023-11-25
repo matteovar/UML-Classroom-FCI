@@ -171,10 +171,12 @@ via navegador web
 **Os professores acessariam o sistema via navegador para registrar presença e faltas. A aplicação web disponibilizaria dados e relatórios em tempo real sobre a situação de cada aluno. Notificações automáticas seriam disparadas conforme as regras de faltas configuradas.**
 
 # Diagrama de implantação
-
+![alt](/assets/Implantacao.png)
 
 # Referências
 
 - https://uderson.medium.com/o-que-%C3%A9-um-registro-de-decis%C3%A3o-de-arquitetura-8e9055b740c7
 
--
+- https://www.drawio.com/blog/uml-component-diagrams
+
+- https://www.visual-paradigm.com/guide/uml-unified-modeling-language/what-is-component-diagram/
