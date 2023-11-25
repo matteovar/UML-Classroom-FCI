@@ -157,8 +157,22 @@ alunos, pois a operação ainda é realizada totalmente em papel.*
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+- Aplicação web desenvolvida.
 
+- Banco de dados para armazenar os dados do sistema
+
+- Hospedagem na nuvem para disponibilizar o acesso 
+via navegador web
+
+- APIs para possibilitar a integração com outros sistemas (por exemplo, para enviar e-mails ou notificações push)
+
+- Front-end responsivo para garantir a acessibilidade e adaptação a dispositivos móveis
+
+- Autenticação e autorização com tokens para controlar o acesso
+
+- Fila para processamentos (envio de e-mails em segundo plano)
+
+**Os professores acessariam o sistema via navegador para registrar presença e faltas. A aplicação web disponibilizaria dados e relatórios em tempo real sobre a situação de cada aluno. Notificações automáticas seriam disparadas conforme as regras de faltas configuradas.**
 # Referências
 
 - https://uderson.medium.com/o-que-%C3%A9-um-registro-de-decis%C3%A3o-de-arquitetura-8e9055b740c7
