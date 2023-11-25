@@ -149,7 +149,7 @@ alunos, pois a operação ainda é realizada totalmente em papel.*
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+![alt](/assets/Componentes.png)
 
 # Decisões de arquitetura
 
@@ -161,4 +161,6 @@ alunos, pois a operação ainda é realizada totalmente em papel.*
 
 # Referências
 
-*&lt;Lista de referências&gt;*
+- https://uderson.medium.com/o-que-%C3%A9-um-registro-de-decis%C3%A3o-de-arquitetura-8e9055b740c7
+
+-
