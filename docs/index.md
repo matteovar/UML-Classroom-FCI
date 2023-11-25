@@ -145,7 +145,7 @@ alunos, pois a operação ainda é realizada totalmente em papel.*
 
 # Diagrama de classes
 
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![alt](/assets/Diagrama_classe.png)
 
 # Diagrama de Componentes
 
